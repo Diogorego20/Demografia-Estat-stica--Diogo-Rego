@@ -3,7 +3,6 @@
 🤔 O que é Demografia Estatística?
 
 A Demografia Estatística estuda basicamente 5 fenômenos principais que acontecem com qualquer população:
-
 1. 👶 FECUNDIDADE - "Quantos bebês nascem?"
 
 O que estuda:
